@@ -1,0 +1,18 @@
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+*.dSYM/
+
+# Compiled binaries (common C++ outputs)
+a.out
+*.out
+
+# Your compiled program names (optional)
+FtoM
+RelationalNLogical
+SignedVUnsigned
+
+# VS Code temp files
+tempCodeRunnerFile*
