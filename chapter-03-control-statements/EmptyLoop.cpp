@@ -11,10 +11,10 @@ int main(){
 
 
     // sum the numbers from 1 through 10 
-    for(i=1; i <=10; sum += i++);
+    for(i=1; i <=10; sum += i++);  //this loop has no body 
 
     cout << "Sum is " << sum;
 
     return 0;
-    
+
 }
