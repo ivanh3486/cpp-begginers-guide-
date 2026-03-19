@@ -9,6 +9,7 @@ tempCodeRunnerFile*
 a.out
 *.out
 *.o
+<<<<<<< HEAD
 *.exe
 *.dSYM/
 
@@ -17,15 +18,27 @@ run
 
 # Exercise executables
 AbsFunciton
+=======
+*.dSYM/
+
+# Ignore compiled executables (no extension)
+PrimeNum
+RegPay
+MagicNum
+AbsFunction
+>>>>>>> eba8956 (Updated gitignore)
 CodeBlock
 FtoMTable
 IntVsDouble
 RelationalNLogical
-SignedVUnsigned
 FtoM
+<<<<<<< HEAD
 JtoE
 RandNum
 WhileLoop
 DeclarLoop
 EmptyLoop
 NoIncrLoop
+=======
+JtoE
+>>>>>>> eba8956 (Updated gitignore)
